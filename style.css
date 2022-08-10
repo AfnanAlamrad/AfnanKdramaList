@@ -1,0 +1,40 @@
+body {
+    background-color: #0e0e0e;
+}
+
+#product-background, #details-background, #watch-background {
+    background-color: #0e0e0e;
+}
+
+#header-background {
+    background-color: #131313;
+}
+
+#footer-background, #review-background {
+    background-color: #131313;
+}
+
+
+#logo {
+    color: white;
+    font-size: 17px;
+    font-family: "Mulish", sans-serif;
+    font-weight: bold;
+}
+
+#span-logo {
+    color: #FFC529;
+}
+
+#aboutme {
+    color: white;
+    font-size: 14px;
+    font-family: "Mulish", sans-serif;
+    text-align: justify;
+    margin-left: 15px;
+}
+
+#top-custom {
+    background-color: #000000b5;
+}
+
